@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalinna1905@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/prajwalinna1905)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/prajwalinna)
 
 ---
 
