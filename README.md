@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Learning Python & building full-stack web applications — one project at a time 🚀</em>
+  <em>Learning Python & building full-stack web applications one project at a time </em>
 </p>
 
 ---
@@ -15,9 +15,9 @@
 ---
 
 ### 🧠 Currently Focused On
-- Python programming & problem solving  
-- Full-stack web development (MERN stack)  
-- Building real-world projects to strengthen fundamentals  
+- Python programming
+- Full stack web development
+- Building real world projects to strengthen fundamentals  
 
 ---
 
@@ -52,4 +52,4 @@
 ---
 
 ### ⚡ Fun Fact
-I build something every day — even when I don’t feel like it.
+I build something every day, even when I don’t feel like it.
