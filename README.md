@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Learning Python & building full-stack web applications one project at a time </em>
+  <em>Learning Python & building full-stack web applications </em>
 </p>
 
 ---
