@@ -20,14 +20,12 @@ Final-year Computer Science Engineering student focused on DevOps, Kubernetes, a
 ## Tech Stack
 
 <p align="left">
-  <img width="200" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,git,github" />
 </p>
 
 <p align="left">
-  <img width="200" src="https://skillicons.dev/icons?i=python,js,nodejs,express,mongodb,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,mongodb,bash" />
 </p>
-
-
 
 <div align="right">
 
